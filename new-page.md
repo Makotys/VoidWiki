@@ -2,7 +2,7 @@
 title: Untitled Page
 description: 
 published: true
-date: 2025-01-07T20:19:32.814Z
+date: 2025-01-07T20:20:16.107Z
 tags: 
 editor: markdown
 dateCreated: 2025-01-04T13:23:47.895Z
@@ -64,7 +64,7 @@ NanoTrasen взошла на вершину благодаря этому чел
   <details>
   <summary>Сигналы из пустоты</summary>
   
-  [Drive-E:/NTDataBase/CentComm/HA/Scanlog.dox]
+  [Drive-E:/NTDataBase/CentComm/HA/Scanlog/Scan_19_05_3024.dox]
   
   Дата пеленга: 19.05.3024 - 04:33
   Тип сигнала: Высокочастотная передача/Сброс координат БСС прыжка
@@ -74,7 +74,7 @@ NanoTrasen взошла на вершину благодаря этому чел
   Видеозахват по направлению: ![4vacvs9ll8l91.png](/twice-pictures/4vacvs9ll8l91.png)
   Конец записи. Выгрузка в Базу Данных. Логирование.
   
-  
+  [Drive-E:/NTDataBase/CentComm/HA/Scanlog.dox]
   
   
   
