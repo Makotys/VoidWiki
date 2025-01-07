@@ -2,7 +2,7 @@
 title: Untitled Page
 description: 
 published: true
-date: 2025-01-07T20:20:16.107Z
+date: 2025-01-07T20:21:39.595Z
 tags: 
 editor: markdown
 dateCreated: 2025-01-04T13:23:47.895Z
@@ -74,7 +74,7 @@ NanoTrasen взошла на вершину благодаря этому чел
   Видеозахват по направлению: ![4vacvs9ll8l91.png](/twice-pictures/4vacvs9ll8l91.png)
   Конец записи. Выгрузка в Базу Данных. Логирование.
   
-  [Drive-E:/NTDataBase/CentComm/HA/Scanlog.dox]
+  [Drive-E:/NTDataBase/CentComm/HA/BlackBox/VoidSignal.dox]
   
   
   
